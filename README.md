@@ -92,9 +92,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fal7net&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=15&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
